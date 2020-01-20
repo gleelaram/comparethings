@@ -1,4 +1,10 @@
-This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
+This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app),[reactstrap](https://reactstrap.github.io/)
+
+# Assumptions
+* 1.only 3 colors for the products
+* 2.Compare attributes are pre decided
+* image path are pre given in array or data(**data.js** file)
+
 
 ## Available Scripts
 
